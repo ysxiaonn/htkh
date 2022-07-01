@@ -3674,7 +3674,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:73px;
+  width:55px;
   height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -3691,9 +3691,9 @@
 #u1197 {
   border-width:0px;
   position:absolute;
-  left:91px;
+  left:100px;
   top:22px;
-  width:73px;
+  width:55px;
   height:22px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
@@ -3705,7 +3705,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:73px;
+  width:55px;
   white-space:nowrap;
 }
 #u1198_div {
@@ -5839,8 +5839,8 @@
 #u1285 {
   border-width:0px;
   position:absolute;
-  left:572px;
-  top:93px;
+  left:463px;
+  top:101px;
   width:61px;
   height:32px;
   font-family:'Microsoft Tai Le';
@@ -5887,8 +5887,8 @@
 #u1286 {
   border-width:0px;
   position:absolute;
-  left:646px;
-  top:93px;
+  left:537px;
+  top:101px;
   width:61px;
   height:32px;
   font-family:'Microsoft Tai Le';
@@ -7584,73 +7584,18 @@
 #u1336 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  height:0px;
-}
-#u1337_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:99px;
-  height:32px;
-  background:inherit;
-  background-color:rgba(24, 144, 255, 1);
-  border:none;
-  border-radius:4px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'Microsoft Tai Le';
-  font-weight:400;
-  font-style:normal;
-  font-size:14px;
-  color:#FFFFFF;
-  text-align:left;
-  line-height:22px;
-}
-#u1337 {
-  border-width:0px;
-  position:absolute;
-  left:463px;
-  top:93px;
-  width:99px;
-  height:32px;
-  font-family:'Microsoft Tai Le';
-  font-weight:400;
-  font-style:normal;
-  font-size:14px;
-  color:#FFFFFF;
-  text-align:left;
-  line-height:22px;
-}
-#u1337_text {
-  border-width:0px;
-  position:absolute;
-  left:16px;
-  top:5px;
-  width:67px;
-  white-space:nowrap;
-}
-#u1338 {
-  border-width:0px;
-  position:absolute;
-  left:463px;
-  top:93px;
-  width:99px;
-  height:32px;
-  overflow:hidden;
-  background-image:url('../../resources/images/transparent.gif');
-}
-#u1339 {
-  border-width:0px;
-  position:absolute;
   left:1337px;
   top:278px;
   width:52px;
   height:242px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
+}
+#u1336_ann {
+  border-width:0px;
+  position:absolute;
+  left:1382px;
+  top:274px;
+  width:1px;
+  height:1px;
 }
